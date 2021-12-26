@@ -1,0 +1,12 @@
+02/08/2017: (version 2.1)
+- Added: Black version
+- Added: Horizontal version
+- Added: RTL version
+- Added: RTL Black, Dark, Horizontal version
+- Fixed: Some bugs
+
+12/06/2016: (version 2.0)
+- Added Dark version
+
+11/25/2016: (version 1.0)
+- Version 1.0 Initial Release
